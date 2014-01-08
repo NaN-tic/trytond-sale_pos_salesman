@@ -1,10 +1,10 @@
-include doc/*
-include tests/*.rst
-include view/*.xml
+include INSTALL
+include README
+include TODO
 include CHANGELOG
 include COPYRIGHT
-include INSTALL
 include LICENSE
-include README
-include *.xml
 include tryton.cfg
+include *.xml
+include view/*.xml
+include doc/*
